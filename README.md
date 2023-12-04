@@ -1,7 +1,9 @@
 # Midterm-21001583-NguyenXuanMinhThai
-Hotel Management
+**Nguyễn Xuân Minh Thái - 21001583**
 
-Goals & Business Objectives
+# Hotel Management
+
+**Goals & Business Objectives**
 1. Lễ tân
 - Người dùng cần một bảng điều khiển chi tiết hiện thị tình trạng phòng trống trong khách sạn, tra cứu chi tiết các phòng của khách sạn/cơ sở lưu trú (giá phòng, gói dịch vụ,...)
 - Người dùng có thể đặt phòng trực tiếp, hủy phòng, check in, check out,.. cho khách lưu trú
